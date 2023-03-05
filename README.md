@@ -14,6 +14,7 @@
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/jonasbfranco/exemplo-ReactContext?style=for-the-badge">
   </a>
 </h1>
+
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#clipboard-Funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -22,8 +23,10 @@
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-Licença">Licença</a>
 </p>
+
+<br>
+
 <p align="center">
-<br><br>
     <img width="200px" src="./.github/simulator_screenshot_0.png" />&nbsp;&nbsp;
     <img width="200px" src="./.github/simulator_screenshot_1.png" />&nbsp;&nbsp;
     <img width="200px" src="./.github/simulator_screenshot_2.png" />&nbsp;&nbsp;
@@ -92,14 +95,6 @@ $ yarn install
 - yarn add @react-native-async-storage/async-storage
 
 
-## 📱 Screens do App
-
-
-![Tela de login, qualquer caracter e a senha é 123456](./github/simulator_screenshot_0.png)
-![tela com o usuário logado](./github/simulator_screenshot_1.png)
-![Tela de SignOut](./github/simulator_screenshot_2.png)
-
-
 
 ## :man: Autor
 
@@ -109,7 +104,7 @@ $ yarn install
  <sub><b>Jonas B. Franco</b></sub>
 </a>
 
-Feito com ❤️ por Jonas B. Franco :wave::wave: Entre em contato! 🚀
+Feito com ❤️ por Jonas B. Franco :wave::wave: Entre em contato! :rocket:
 
 <a href="https://www.linkedin.com/in/jonasbfranco">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
